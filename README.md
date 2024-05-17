@@ -1,4 +1,6 @@
-### Hi there 👋
+### thaina - 2B - Robotica
+
+![](https://github.com/moranguinho14/moranguinho14/assets/170127258/c514f029-cdb6-41f0-a35a-dc21e609a481)
 
 <!--
 **moranguinho14/moranguinho14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
